@@ -1,0 +1,11 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .smart { font: 900 72px 'Inter', sans-serif; letter-spacing: -2px; }
+    .study { font: 900 84px 'Inter', sans-serif; letter-spacing: -1px; }
+  </style>
+  <path d="M70 70L85 45L100 70M85 45V90" stroke="#1E3A8A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="75" y="100" fill="#0F172A" class="smart"><tspan fill="#1E3A8A">S</tspan>mart</text>
+  <path d="M100 110C120 100 160 100 180 110C200 100 240 100 260 110" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+  <text x="110" y="165" fill="#65A30D" class="study">Study</text>
+  <path d="M345 130L360 140V155L345 165L330 155V140L345 130Z" fill="#84CC16" />
+</svg>

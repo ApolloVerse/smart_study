@@ -1,0 +1,5 @@
+{
+  "name": "smart study",
+  "description": "An intelligent study planner to help students prepare for the ETEC (Vestibulinho) entrance exam. Features personalized study plans, adaptive quizzes powered by AI, and detailed progress tracking.",
+  "requestFramePermissions": []
+}
